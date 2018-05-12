@@ -1,0 +1,41 @@
+_repo: Little-Meg-s-Children_30555
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Copping, Harold
+    birthdate: 1863
+    deathdate: 1932
+    gutenberg_agent_id: '34675'
+    url: http://www.gutenberg.org/2009/agents/34675
+covers:
+- cover_type: archival
+  image_path: 30555-h/images/img-cover.jpg
+creator:
+  author:
+    agent_name: Stretton, Hesba
+    alias: Smith, Sarah
+    birthdate: 1832
+    deathdate: 1911
+    gutenberg_agent_id: '2440'
+    url: http://www.gutenberg.org/2009/agents/2440
+    wikipedia: http://en.wikipedia.org/wiki/Hesba_Stretton
+description: When her mother dies leaving Little Meg to care for her two young brothers
+  in nineteenth-century London, they spend their days asking for God's blessings and
+  trying to find enough food to keep them alive until father returns from sea.
+gutenberg_issued: '2009-11-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30555'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'London (England) -- Juvenile fiction'
+- !lcsh 'Poverty -- Juvenile fiction'
+- !lcsh 'England -- Juvenile fiction'
+- !lcsh 'Brothers and sisters -- Juvenile fiction'
+title: Little Meg's Children
+url: http://www.gutenberg.org/ebooks/30555
